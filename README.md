@@ -8,3 +8,6 @@ The assignment was to create any sort of game project displaying what we have le
 
 Flying Ace Adventure was heavily inspired by the Arcade game, Atari Space Race, in which pixilated 2d spaceships race against each other to reach the top of the screen, dodging asteroids along the way. Similarly, Flying Ace Adventure prompts the user to use their arrow keys to help Snoopy dodge the moving obstacles and reach the end of the screen. Snoopy can only move left and right--with the left and right arrow keys respectively--and the obstacles can only move up and down. 
 - Uses Java and Java Swing (GUI capabilities), created on Eclipse IDE (2019/2020 Ver.)
+
+Overall demonstration of the game panels and the game play itself can be seen in the video below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaeqZc9zzXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
