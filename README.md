@@ -4,5 +4,6 @@ Fair Use Disclaimer: This project contains original content from Peanuts Worldwi
 
 High School Sophomore Final Project 2019-2020
 The assignment was to create any sort of game project displaying what we have learned so far in the past two years of coding, or to explore some other medium of game-creation.
+- Though this was originally created in 2020, it was never uploaded anywhere publically as a project until now.
 
 Flying Ace Adventure was heavily inspired by the Arcade game, Atari Space Race, in which pixilated 2d spaceships race against each other to reach the top of the screen, dodging asteroids along the way. Similarly, Flying Ace Adventure prompts the user to use their arrow keys to help Snoopy dodge the moving obstacles and reach the end of the screen. Snoopy can only move left and right--with the left and right arrow keys respectively--and the obstacles can only move up and down. 
