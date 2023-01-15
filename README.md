@@ -10,4 +10,4 @@ Flying Ace Adventure was heavily inspired by the Arcade game, Atari Space Race, 
 - Uses Java and Java Swing (GUI capabilities), created on Eclipse IDE (2019/2020 Ver.)
 
 Overall demonstration of the game panels and the game play itself can be seen in the video below.
-https://www.youtube.com/watch?v=LaeqZc9zzXE
+- https://www.youtube.com/watch?v=LaeqZc9zzXE
