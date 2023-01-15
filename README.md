@@ -1,10 +1,8 @@
 # FlyingAceAdventure
-High School Sophomore Final Project 2019-2020
-The assignment
  
-Fair Use Disclaimer: This project contains original content from Peanuts Worldwide--specifically Wildbrain, Sony Music, and the Charles Schulz' family. The content included may not be authorized for use by the Peanuts. This project containst the Peanuts' character Snoopy, as well as his "Flying Ace" costume to 
+Fair Use Disclaimer: This project contains original content from Peanuts Worldwide--specifically Wildbrain, Sony Music, and the Charles Schulz' family. The content included may not be authorized for use by the Peanuts. This project contains the Peanuts' character Snoopy, as well as his "Flying Ace" costume as a main character the user controls to dodge obstacles in the game. I do not claim this character nor the images and gifs within this project as my own. Section 107 of the Copyright Act allows fair use primarily for criticism, comment, news reporting, teaching, scholarship, education, and research.
 
-Section 107 of the Copyright Act allows 
+High School Sophomore Final Project 2019-2020
+The assignment was to create any sort of game project displaying what we have learned so far in the past two years of coding, or to explore some other medium of game-creation.
 
-
-Heavily inspired by the Arcade game, Atari Space Race, in which pixilated 2d spaceships race against each other to reach the top of the screen, dodging asteroids along the way.  
+Flying Ace Adventure was heavily inspired by the Arcade game, Atari Space Race, in which pixilated 2d spaceships race against each other to reach the top of the screen, dodging asteroids along the way. Similarly, Flying Ace Adventure prompts the user to use their arrow keys to help Snoopy dodge the moving obstacles and reach the end of the screen. Snoopy can only move left and right--with the left and right arrow keys respectively--and the obstacles can only move up and down. 
