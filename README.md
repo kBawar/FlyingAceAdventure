@@ -11,3 +11,21 @@ Flying Ace Adventure was heavily inspired by the Arcade game, Atari Space Race, 
 
 Overall demonstration of the game panels and the game play itself can be seen in the video below.
 - https://www.youtube.com/watch?v=LaeqZc9zzXE
+
+Features:
+![](https://github.com/kBawar/FlyingAceAdventure/blob/images/successGif_snoopy.gif)
+- controlled by the user’s arrow keys and mouse
+- Atari-style gameplay (dodge obstacles) with increasingly-difficult levels
+
+![](https://github.com/kBawar/FlyingAceAdventure/blob/images/pauseGif_snoopy.gif)
+- functional pause/resume
+- working timer that grants the user points based on how quick they complete the level
+
+![](https://github.com/kBawar/FlyingAceAdventure/blob/images/instructionsGif_snoopy.gif)
+- working menu system
+- includes descriptive instructions on controls, hit-boxes, and point system
+
+![](https://github.com/kBawar/FlyingAceAdventure/blob/images/collisionGif_snoopy.gif)
+- working collisions/crashes
+- leads to a screen for users to enter their initials and see their scores
+
